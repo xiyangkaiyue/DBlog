@@ -14,7 +14,7 @@
             <div class="scrolltext">
                 <ul class="list-unstyled" id="notice-box">
                     <li class="scrolltext-title">
-                        <a href="javascript:void(0)" rel="bookmark">本站正式启用新域名:<a href="https:/www.zhyd.me" target="_blank"><strong>https:/www.zhyd.me</strong></a></a>
+                        <a href="javascript:void(0)" rel="bookmark">本站正式启用新域名:<a href="http://www.weixiyangnb.top" target="_blank"><strong>http://www.weixiyangnb.top</strong></a></a>
                     </li>
                     <li class="scrolltext-title">
                         <a href="javascript:void(0)" rel="bookmark">活了二十多年，没能为祖国、为人民做点什么，每思及此，伤心欲绝。</a>
@@ -98,7 +98,7 @@
                 </#list>
                 <@pageBar></@pageBar>
             <#else >
-                <article class="fade-in" style="height: auto">
+                <article class="fade-in" style="height: auto">F
                     <div class="rows">
                         <div class="col-md-10 col-sm-12">
                             <div class="h3 text-center">亲，啥也没找到啊~~<img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/15/j_thumb.gif" alt="[囧]"></div>
