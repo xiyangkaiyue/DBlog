@@ -14,12 +14,12 @@
                 <h5 class="custom-title"><i class="fa fa-user-secret fa-fw"></i><strong>博主简介</strong><small></small></h5>
                 <div class="info">
                     <p>
-                        码农一枚
+                        bug制造机 美男子 我变强了,也变秃了
                     </p>
                 </div>
-                <h5 class="custom-title"><i class="fa fa-coffee fa-fw"></i><strong>关于博客</strong><small></small></h5>
+                <h5 class="custom-title"><i class="fa fa-coffee fa-fw"></i><strong>网站目的</strong><small></small></h5>
                 <div class="info">
-                    本站为非商业化站点，无盈利性质，为博主个人博客。本站二次开发于 <a href="https://gitee.com/yadong.zhang/DBlog" title="" data-toggle="tooltip" data-placement="right" target="_blank" data-original-title="OneBlog是一款简洁美观、自适应的Java博客系统..."><strong>OneBlog</strong></a>。<br>
+                    纯属娱乐  记录成长的点点滴滴 <br>
                 </div>
                 <h5 class="custom-title"><i class="fa fa-copyright fa-fw"></i><strong>关于版权</strong><small></small></h5>
                 <div class="info">
